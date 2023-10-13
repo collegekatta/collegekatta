@@ -4,11 +4,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=collegekatta&color=ca2929&style=flat-square" alt="collegekatta.in" />
+</p>
+
 At [Collegekatta.In](https://collegekatta.in), we are dedicated to empowering students to learn, collaborate, and thrive in the world of programming and open-source projects. Our platform serves as a hub for college students, offering a wide array of free and paid projects to work on, as well as the opportunity to showcase and upload their own projects on our website, [Collegekatta.In](https://collegekatta.in).
 
 We are a hub for those who want to contribute to open-source projects, enhance their programming skills, and collaborate on repositories to foster knowledge sharing and innovation.
 
 ### 📚 What We Offer:
+- **Open source projects:** We are a hub for those who want to contribute to open-source projects, enhance their programming skills, and collaborate on repositories to foster knowledge sharing and innovation.
 - **Learning Opportunities:** Explore a diverse range of open and public projects carefully curated to enhance your skills and knowledge.
 - **Collaborative Environment:** Connect with like-minded students, share ideas, and collaborate on exciting projects that align with your passions.
 - **Free and Paid Projects:** Access a variety of projects, both free and paid, designed to cater to different levels of expertise and interests, visit [Collegekatta.In](https://collegekatta.in) to explore.
@@ -30,18 +35,31 @@ Explore our open-source repositories and start contributing to exciting projects
 
 
 ## Statistics
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=collegekatta&show_icons=true&theme=radical&count_private=true" alt="collegekatta" />
-</p>
-
-<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=collegekatta&show_icons=true&theme=radical&count_private=true" alt="collegekatta.in" />
+  <span>&nbsp;&nbsp;&nbsp;</span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collegekatta&layout=compact&show_icons=true&theme=radical&count_private=true" alt="collegekatta.in" />
 </p>
 
+## Programming languages and Tools
+<p align="center" >
+<code> <img height="50" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png"> </code>
+<code> <img height="50" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png"> </code>
+<code> <img height="50" src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png"> </code>
+<code> <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"> </code>
+<code> <img height="50" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"> </code>
+<code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"> </code>
+<code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg"> </code>
+ <code> <img height="50" src="https://img.icons8.com/color/452/visual-studio.png"> </code>
+</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=collegekatta&color=ca2929&style=flat-square" alt="collegekatta.in" />
+## Databases 
+
+<p align="center" >
+<code> <img height="50" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </code>
+<code> <img height="50" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> </code>
+<code> <img height="50" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> </code>
+<code> <img height="50" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> </code>
 </p>
 
 🤝 Join Our Community:
